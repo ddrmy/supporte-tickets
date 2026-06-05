@@ -4,5 +4,5 @@ import { parseRoutePath } from "../utils/parseRoutePath.js"
 
 export const routes = [...tickets].map((route) => ({
     ...route,
-    path: parseRoutePath(route.path)
+    path: parseRoutePath(route.path),
 }))

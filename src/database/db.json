@@ -1,1 +1,31 @@
-{"tickets":[{"id":"45e72dde-40ea-4b8c-be61-ff4b32a93c56","equipament":"Computador","description":"Computador não liga.","user_name":"Gabriel Sarti","status":"open","created_at":"2026-06-02T20:50:28.995Z","updated_at":"2026-06-02T20:50:28.995Z"},{"id":"e4dee573-9448-4432-87d6-ce09319a07c9","equipament":"Teclado","description":"A tecla de espaço não funciona.","user_name":"Ana Beatriz","status":"open","created_at":"2026-06-05T13:16:55.708Z","updated_at":"2026-06-05T13:16:55.708Z"},{"id":"337c6c67-8268-4cd1-900d-c4ba991707fc","equipament":"Teclado","description":"A tecla de espaço não funciona.","user_name":"Ana Beatriz","status":"open","created_at":"2026-06-05T14:21:26.324Z","updated_at":"2026-06-05T14:21:26.324Z"}]}
+{
+  "tickets": [
+    {
+      "id": "45e72dde-40ea-4b8c-be61-ff4b32a93c56",
+      "equipament": "Computador",
+      "description": "Computador não liga.",
+      "user_name": "Gabriel Sarti",
+      "status": "open",
+      "created_at": "2026-06-02T20:50:28.995Z",
+      "updated_at": "2026-06-02T20:50:28.995Z"
+    },
+    {
+      "id": "e4dee573-9448-4432-87d6-ce09319a07c9",
+      "equipament": "Teclado",
+      "description": "A tecla de espaço não funciona.",
+      "user_name": "Ana Beatriz",
+      "status": "open",
+      "created_at": "2026-06-05T13:16:55.708Z",
+      "updated_at": "2026-06-05T13:16:55.708Z"
+    },
+    {
+      "id": "337c6c67-8268-4cd1-900d-c4ba991707fc",
+      "equipament": "Monitor",
+      "description": "A Tela azul.",
+      "user_name": "Marcelo Barreto",
+      "status": "closed",
+      "created_at": "2026-06-05T14:21:26.324Z",
+      "updated_at": "2026-06-05T14:21:26.324Z"
+    }
+  ]
+}

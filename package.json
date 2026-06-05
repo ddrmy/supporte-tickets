@@ -8,5 +8,10 @@
   },
   "author": "Gabriel Sarti",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.57.1",
+    "prettier": "^3.8.3",
+    "prettier-eslint": "^16.4.2"
+  }
 }
