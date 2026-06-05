@@ -2,12 +2,12 @@
   "tickets": [
     {
       "id": "45e72dde-40ea-4b8c-be61-ff4b32a93c56",
-      "equipament": "Computador",
-      "description": "Computador não liga.",
+      "equipament": "Mouse",
+      "description": "Mouse com problemas",
       "user_name": "Gabriel Sarti",
       "status": "open",
       "created_at": "2026-06-02T20:50:28.995Z",
-      "updated_at": "2026-06-02T20:50:28.995Z"
+      "updated_at": "2026-06-05T15:49:26.609Z"
     },
     {
       "id": "e4dee573-9448-4432-87d6-ce09319a07c9",
